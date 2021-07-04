@@ -3,7 +3,7 @@ This repo will showcase my docker skills and development
 
 # Scripts
 - [Php vulnerable site](https://github.com/p-cap/Php-Apache-Reflective-XSS.git)   
-  The repository above will run a vulnerable web application inside a docker container
+  This repo is a vulnerable web app written in php but also has a sanitized version to show how to prevent such attack
 - [Express](https://github.com/p-cap/anything-Docker/tree/main/express-server)    
   This script will instantiate an express server for web development
 - [Postgres](https://github.com/p-cap/postgres-docker)  
